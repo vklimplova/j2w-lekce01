@@ -3,6 +3,7 @@
 1. Udělej fork zdrojového repository do svého účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 1. Uprav soubor `/src/main/resources/static/index.html` – nahraď v něm své jméno.
+1. Zkontroluj si v prohlížeči, že webová stránka vypadá podle tvých představ. 
 1. *Commitni* svou úpravu do lokálního git repository.
 1. *Pushni* svou úpravu do vzdáleného repository na svém účtu na GitHubu.
 1. Zkontroluj na GitHubu, že se tam objevil tvůj poslední commit a že v souboru `/src/main/resources/static/index.html` je tvá úprava.
