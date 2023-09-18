@@ -11,4 +11,4 @@
 Pokud chceš, můžeš pokračovat dalšími úpravami `index.html`, třeba přidat motivační citát. Vždy, když uděláš ucelenou změnu a jsi s výsledkem spokojena, *commitni* změny do lokálního repository a následně je pomocí *push* zveřejni a zazálohuj na GitHubu.
 
 ## Mohlo by se hodit
-* odkaz na stránku [Lekce 1](https://java.czechitas.cz/2022-podzim/java-2-online/lekce-1.html)
+* odkaz na stránku [Lekce 1](https://java.czechitas.cz/2023-podzim/java-2-online/lekce-1.html)
